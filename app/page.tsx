@@ -339,8 +339,8 @@ export default function PortfolioLandingPage() {
                     <div className="w-200 h-145 aspect-square max-w-md mx-auto relative overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-secondary/20 p-1">
                       <div className="w-full h-full rounded-xl overflow-hidden bg-background">
                         <img
-                          src="/image/profile2.png"
-                          alt="Muhammad Fauzan Ashshidiq - Full Stack Developer"
+                          src="/image/profile22.png"
+                          alt="Fahmi Dwi Santoso - Freelance Graphic Designer"
                           className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                         />
                       </div>
