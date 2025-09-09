@@ -291,14 +291,14 @@ export default function PortfolioLandingPage() {
                   size="lg"
                   className="bg-primary hover:bg-primary/90 hover:scale-105 transition-all duration-300 animate-pulse-subtle"
                 >
-                  <button onClick={() => smoothScrollTo("portfolio")}>Let's connect with meG</button>
+                  <button onClick={() => smoothScrollTo("portfolio")}>Let's connect with me</button>
                 </Button>
                 <Button
                   size="lg"
                   variant="outline"
                   className=" mb-10 transition-all duration-300 bg-transparent"
                 >
-                  <a href="/cv-fahmi-dwi-santoso.pdf" download>
+                  <a href="https://drive.google.com/drive/folders/1lSPLFAEGTarlh7qvYbz8ls8JNmXeLCUb?usp=sharing">
                     Download CV
                   </a>
                 </Button>
