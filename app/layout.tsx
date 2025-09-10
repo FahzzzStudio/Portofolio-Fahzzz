@@ -18,8 +18,8 @@ const poppins = Poppins({
 
 
 export const metadata: Metadata = {
-  title: "Portfolio - Web Developer & UX Designer",
-  description: "Modern portfolio showcasing web development and UX design projects",
+  title: "Portfolio - Freelance Graphic Designer",
+  description: "Portfolio showcasing Fahzzz Freelance Graphic Designer",
   generator: "v0.app",
 }
 
