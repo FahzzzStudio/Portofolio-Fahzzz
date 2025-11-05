@@ -242,7 +242,7 @@ export default function PortfolioLandingPage() {
             <Button
               variant="outline"
               size="sm"
-              // className="hover:scale-105 transition-transform duration-200 bg-transparent"
+              className="hover:scale-105 transition-transform duration-200 bg-transparent"
             >
               Hire me!
             </Button>
@@ -254,7 +254,7 @@ export default function PortfolioLandingPage() {
             <div className="max-w-4xl mx-auto">
               <div className="mb-8" data-animate id="hero-content">
                 <Avatar
-                  className={`w-45 h-45 mx-auto mb-6 ring-4 animate-pulse-glow ring-primary/20 transition-all duration-1000 ${visibleElements.has("hero-content") ? "animate-bounce-in scale-100 opacity-100" : "scale-75 opacity-0"}`}
+                  className={`w-45 h-45 mx-auto mb-6 hover:scale-105 ring-4 animate-pulse-glow ring-primary/20 transition-all duration-1000 ${visibleElements.has("hero-content") ? "animate-bounce-in scale-100 opacity-100" : "scale-75 opacity-0"}`}
                 >
                   <AvatarImage src="/image/profile1.png" alt="Fahmi" />
                   <AvatarFallback className="text-2xl bg-primary text-primary-foreground">F</AvatarFallback>
@@ -296,7 +296,7 @@ export default function PortfolioLandingPage() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className=" mb-10 transition-all duration-300 bg-transparent"
+                  className=" mb-10 hover:scale-105 transition-all duration-300 bg-transparent"
                 >
                   <a href="https://drive.google.com/drive/folders/1lSPLFAEGTarlh7qvYbz8ls8JNmXeLCUb?usp=sharing">
                     Download CV
